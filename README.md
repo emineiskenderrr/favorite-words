@@ -1,3 +1,3 @@
 # favorite-words
 Codelab uygulaması
-![image](https://user-images.githubusercontent.com/57019950/222980031-04a4ce7a-db0b-4a0d-beca-05ccffcca1f7.png)
+![image](https://user-images.githubusercontent.com/57019950/222980059-a9a5e302-c69a-4948-92bb-b334db270bf7.png)
